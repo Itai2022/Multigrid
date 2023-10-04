@@ -1,2 +1,2 @@
 # Multigrid
-Contains the code that I used in my bachelor thesis.
+Contains the code for multigrid in 2 dimension that I used in my bachelor thesis.
